@@ -1,7 +1,7 @@
 ﻿
 //import * as Sortable from "./Sortable.min.js";
 //import * as Sortable from "https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js";
-import Sortable from 'sortablejs';
+import * as Sortable from './Sortable.js';
 
 // global export
 window.Sortable = Sortable;
